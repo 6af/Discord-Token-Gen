@@ -16,7 +16,7 @@ An auto discord token generator. Auto verifies phone number but not email. Still
 
 **WILL NOT WORK WITHOUT API KEY**
 
-put your [capmonster](https://www.capmonster.com) key in main.py
+put your [capmonster](https://www.capmonster.cloud) key in main.py
 and your [onlinesim.ru](https://onlinesim.io?ref=3203672) key in main.py.
 
 capmonster is for hcaptcha solve and onlinesim.ru is for phone verfication.
